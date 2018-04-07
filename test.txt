@@ -1,0 +1,9 @@
+o_8.jpg 0
+o_9.jpg 0
+o_10.jpg 0
+s_8.jpg 1
+s_9.jpg 1
+s_10.jpg 1
+y_8.jpg 2
+y_9.jpg 2
+y_10.jpg 2
